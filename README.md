@@ -1,13 +1,13 @@
 <!-- Header -->
 
-<div style="float: left;">
+<div style="t: left;">
     <img src="images/header.png" alt="" width="" height="">
 </div>
 
 <!-- End Header -->
 
 
-# Digital-Talent-Scholarship
+# Digital Talent Scholarship
 
 ## FGA: Data Science (19 Sep - 28 Okt 2022)
 - Memahami Database serta kaitannya dengan SQL
