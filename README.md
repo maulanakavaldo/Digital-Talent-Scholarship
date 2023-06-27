@@ -16,6 +16,7 @@
 - Memahami modeling data & Machine Learning
 - Membuat modelling data
 
+  Project: <a href="https://github.com/maulanakavaldo/Data-Science" target="_blank">Class</a> | <a href="https://github.com/maulanakavaldo/Tri-Hita-Karana" target="_blank">Tri Hita Karana G20 Bali</a>
 
 ## PROA: Google Cloud Fundamental | Google (3 Mar - 14 Apr 2023)
 - <a href="http://cloud.google.com/training/course/introduction-to-digital-transformation-with-google-cloud">Introduction to Digital Transformation with Google Cloud</a>: Mengenal konsep dasar serta fungsi yang ada Google Cloud
