@@ -1,5 +1,10 @@
 <!-- Header -->
-  <div style="float: left;">
+
+<div style="float: left;">
+    <img src="images/header.png" alt="" width="" height="75">
+</div>
+
+  <!-- <div style="float: left;">
       <img src="images/kominfo.png" alt="" width="75" height="75">
   </div>
 
@@ -21,7 +26,7 @@
 
   <div style="float: left;">
       <img src="images/digitalent.png" alt="aws-re/start" width="75" height="75>
-  </div>
+  </div> -->
 
 <!-- End Header -->
 <br><br><br><br><br><br>
