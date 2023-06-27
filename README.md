@@ -1,35 +1,12 @@
 <!-- Header -->
 
 <div style="float: left;">
-    <img src="images/header.png" alt="" width="" height="75">
+    <img src="images/header.png" alt="" width="" height="">
 </div>
 
-  <!-- <div style="float: left;">
-      <img src="images/kominfo.png" alt="" width="75" height="75">
-  </div>
-
-  <div style="float: left;">
-      <img src="images/binar-academy.png" alt="" width="75" height="75">
-  </div>
-
-  <div style="float: left;">
-      <img src="images/fga.png" alt="" width="210" height="75">
-  </div>
-
-  <div style="float: left;">
-      <img src="images/google.png" alt="" width="75" height="75">
-  </div>
-
-  <div style="float: left;">
-      <img src="images/proa.png" alt="" width="210" height="75">
-  </div>
-
-  <div style="float: left;">
-      <img src="images/digitalent.png" alt="aws-re/start" width="75" height="75>
-  </div> -->
-
 <!-- End Header -->
-<br><br><br><br><br><br>
+
+
 # Digital-Talent-Scholarship
 
 ## FGA: Data Science (19 Sep - 28 Okt 2022)
