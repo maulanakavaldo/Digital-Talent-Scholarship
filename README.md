@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<div style="t: left;">
+<div style="">
     <img src="images/header.png" alt="" width="" height="">
 </div>
 
