@@ -24,3 +24,4 @@
 - <a href="http://cloud.google.com/training/course/infrastructure-and-application-modernization-with-google-cloud">Application and infrastructure modernization with Google Cloud</a>: Memahami infrastruktur dengan menggunakan Google Cloud
 - <a href="http://cloud.google.com/training/course/understanding-google-cloud-security-and-operations">Understanding Google Cloud Security and Operations</a>: Memahami Google Cloud Security and Operations
 
+   Challenge: <a href="https://www.cloudskillsboost.google/public_profiles/aa062bc9-81cc-4a11-9f53-025437d13c1f">Google Cloud Platform Badge (GCP)
